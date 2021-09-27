@@ -17,7 +17,6 @@ function AdminDashboard() {
     })
 
 
-    // hello
     return (
         // to display all the details in admin dashboard
         <div>
